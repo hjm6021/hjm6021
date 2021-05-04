@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hjm6021
 - 👀 I’m interested in ...
-  Web Application - Backend
-  Deep Learning - Computer Vision
-  Blockchain - Hyperledger Fabric
+  Web Application(Backend),
+  Deep Learning(Computer Vision),
+  Blockchain(Hyperledger Fabric)
 - 🌱 I’m currently learning ...
   Django
   Golang
