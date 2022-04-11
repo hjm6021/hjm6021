@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @hjm6021
 - 👀 I’m interested in ...
   Web Application(Backend),
-  Deep Learning(Computer Vision),
-  Blockchain(Hyperledger Fabric)
 - 🌱 I’m currently learning ...
-  Django
-  Golang
-  Hyperledger Fabric
+Python, Flask, Django, React, MongoDB
 - 📫 How to reach me ...
   hjm6021@gmail.com
 
