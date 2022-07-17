@@ -10,5 +10,6 @@ Legal Alien In TOKYO
 - Born in Jeju, S. Korea, 1991
 - Worked for Arion Communication Company as Field Engineer, 2016 ~ 2018
 - Graduated from Korean Maritime University - Computer Science, 2019
-- Working for BASIS Corporation as IT Engineer, 2020 ~
+- Worked for BASIS Corporation as IT Engineer, 2020 ~ 2022
+- Working for Rakuten Group as Application Engineer, 2022 ~
 
